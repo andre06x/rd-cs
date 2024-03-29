@@ -6,8 +6,11 @@
 
 No terminal, execute os comandos:
 
+```
+cd rd-cs
 npm install
 npm test
+```
 
 ## Ordem de solução:
 
